@@ -36,8 +36,7 @@ venv.bak/
 *.swo
 
 # Docker
-.dockerignore
-Dockerfile
+# .dockerignore and Dockerfile are now tracked
 docker-compose.yml
 
 # Environment variables
